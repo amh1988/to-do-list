@@ -1,6 +1,7 @@
 :root {
     --color-main: #03af98;
 }
+
 *{
     margin: 0;
     padding: 0;
@@ -20,6 +21,8 @@ body{
     min-height: 600px;
     position: relative;
 }
+
+//title styles
 
 .title{
     text-align: center;
